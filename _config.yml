@@ -16,8 +16,8 @@
 title: "Darrion Clay"
 email: 'dclayexpress@gmail.com'
 description: "I'm a software developer and designer from Chicago creating useful things for the web"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "https://darrionclay.github.io/itportfolio/" # the subpath of your site, e.g. /blog
+url: "https://darrionclay.github.io/itportfolio/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'darrionclay'
 github_username: 'darrionclay'
 medium_username: ''
